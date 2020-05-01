@@ -1,7 +1,7 @@
 import java.util.Objects;
 
 public class guillemMora {
-    // conflicte
+    // conf
     private int edat;
     private String tel;
 
