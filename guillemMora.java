@@ -1,6 +1,7 @@
 import java.util.Objects;
 
 public class guillemMora {
+    // conflicte
     private int edat;
     private String tel;
 
