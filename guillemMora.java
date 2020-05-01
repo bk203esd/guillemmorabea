@@ -11,6 +11,14 @@ public class guillemMora {
         //copia
     }
 
+    public int getEdat() {
+        return edat;
+    }
+
+    public String getTel() {
+        return tel;
+    }
+
     public String toString() {
         return "guillemMora{" +
                 "edat=" + edat +
