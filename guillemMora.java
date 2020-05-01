@@ -7,6 +7,10 @@ public class guillemMora {
     public guillemMora() {
     }
 
+    public void guillemMoracopia() {
+        //copia
+    }
+
     public String toString() {
         return "guillemMora{" +
                 "edat=" + edat +
